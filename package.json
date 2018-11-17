@@ -1,0 +1,28 @@
+{
+  "name": "angel-mobx",
+  "version": "0.0.1",
+  "description": "基于mobx封装的angel-mobx,使用起来更方便,减少配置",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mobx",
+    "mobx-react",
+    "react",
+    "mobx-react",
+    "state",
+    "config",
+    "angel",
+    "angel-mobx",
+    "node",
+    "webpack"
+  ],
+  "author": "ruanguangguang",
+  "license": "MIT",
+  "dependencies": {
+    "mobx-react": "^5.2.3",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
