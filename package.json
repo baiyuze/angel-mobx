@@ -1,6 +1,6 @@
 {
   "name": "angel-mobx",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "基于mobx封装的angel-mobx,使用起来更方便,减少配置",
   "main": "lib/index.js",
   "scripts": {
@@ -27,6 +27,7 @@
   "dependencies": {
     "mobx-react": "^5.2.3",
     "react": "^16.4.1",
-    "react-dom": "^16.4.1"
+    "react-dom": "^16.4.1",
+    "mobx": "^5.0.3"
   }
 }
