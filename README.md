@@ -3,7 +3,7 @@
 import React from 'react';
 import { Route, Switch, HashRouter } from 'react-router-dom';
 import TodoList from "./components/TodoList";
-import app from '../app.js';
+import app from 'angel-mobx';
 function RouterConfig() {
   return (
     <HashRouter>

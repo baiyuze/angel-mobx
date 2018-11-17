@@ -1,8 +1,8 @@
 {
   "name": "angel-mobx",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "基于mobx封装的angel-mobx,使用起来更方便,减少配置",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
