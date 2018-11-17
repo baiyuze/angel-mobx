@@ -34,7 +34,11 @@ class App extends React.Component{
   }
   //启动
   start(id) {
-    render(<Provider store={this.store}><this.router /></Provider>,
+    render(React.createElement(
+      Provider,
+      { store: this.store },
+      React.createElement(this.router, null)
+    ),
       document.getElementById(id)
     );
 
