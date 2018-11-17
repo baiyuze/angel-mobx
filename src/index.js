@@ -8,7 +8,6 @@ class App extends React.Component{
     this.store = {};
     //model
     this.modelStore = {};
-
   }
 
   //初始化store
