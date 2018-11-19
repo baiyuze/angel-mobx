@@ -1,4 +1,4 @@
-# 初步封装了mobx
+# 封装了mobx
 ```javascript
 import React from 'react';
 import { Route, Switch, HashRouter } from 'react-router-dom';
